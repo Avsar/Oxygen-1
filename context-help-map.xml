@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="untitled2" path="Introduction.html"/>
+   <appContext helpID="prerequisites" path="prerequisites.html"/>
+   <appContext helpID="add_a_row_to_the_dashboard" path="add_a_row_to_the_dashboard.html"/>
+   <appContext helpID="add_card_action_to_a_row" path="add_card_action_to_a_row.html"/>
+   <appContext helpID="create_a_page" path="create_a_page.html"/>
+   <appContext helpID="creating_entities_and_attributes"
+               path="creating_entities_and_attributes.html"/>
+</map>
